@@ -1,5 +1,8 @@
 name = "Ada lovelace"
 print(name)
+
+
+
 #whitespacing
 print("Python")
 print("\tPython")
@@ -8,6 +11,8 @@ favorite_cat="Sam "
 print(favorite_cat)
 favorite_cat.rstrip()
 favorite_cat.lstrip()
+
+
 
 #practice
 friend = "Eric"
